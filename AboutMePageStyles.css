@@ -1,0 +1,251 @@
+body{
+	background-color: #D3D3D3;
+}
+
+p {
+  font-family: "Arial Black", Arial, sans-serif;
+}
+
+
+/* Nav Bar */
+body {
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #7F38EC;
+}
+
+
+h2 {
+	font-color: white;
+	font-size: 300%;
+	text-align: left;
+	background-color: #7F38EC;
+}
+
+
+/* Style the header */
+.header {
+  background: #555;
+  color: #f1f1f1;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+
+
+
+/* Blaine Crick */
+#body1 {
+	margin: 3% 8%;
+}
+
+
+
+div.a {
+	float: left;
+}
+
+div.aa{
+	float: right;
+}
+
+div.aaa {
+  float: right;
+  text-align: left;
+  font-size: 150%
+}
+
+
+
+/* Credits  */
+#body2{
+	margin: 3% 8%;
+}
+
+
+
+div.b {
+	float: left;
+}
+
+div.bb{
+	float: right;
+}
+
+div.bbb {
+  float: right;
+  text-align: left;
+  font-size: 150%
+}
+
+
+ul.list{
+  background: rgba(0,0,0,0);
+}
+
+/* Act One */
+#body3{
+	margin: 3% 8%;
+}
+
+
+
+div.c {
+	float: left;
+}
+
+div.cc{
+	float: right;
+}
+
+div.ccc {
+  float: right;
+  text-align: left;
+  font-size: 150%
+}
+
+
+
+/* Act Two */
+#body4{
+	margin: 3% 8%;
+}
+
+
+div.d {
+	float: left;
+}
+
+div.dd{
+	float: right;
+}
+
+div.ddd {
+  float: right;
+  text-align: left;
+  font-size: 150%
+}
+
+
+/* Act Three */
+#body5{
+	margin: 3% 8%;
+}
+
+div.f {
+	float: left;
+}
+
+
+div.ff{
+	float: right;
+}
+
+div.fff {
+  float: right;
+  text-align: left;
+  font-size: 150%
+}
+
+/* Tralier */
+#body6{
+	margin: 3% 8%;
+}
+
+div.g {
+	float: left;
+}
+
+
+div.gg{
+	float: right;
+}
+
+div.ggg {
+  float: bottom;
+  text-align: middle;
+  font-size: 150%
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: #7F38EC;
+}
+
+/* selected link */
+a:active {
+  color: #7F38EC;
+} 
+
+/* Images */
+.imgs
+    { background:#7F38EC;
+    padding:3px;
+    border:1px solid #999; }
+
+
+.button{
+  background-color: #7F38EC; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50%;
+  font-family: "Arial Black", Arial, sans-serif;
+  border-radius: 12px;
+}
+
+.button:hover{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
